@@ -1,0 +1,19 @@
+2
+
+GitHub = Ferramenta de versionamento muito poderosa. Com ela e capaz manipular complexas branches de trabalho de forma que os desenvolvedores
+possam trabalhar em conjunto em sistemas grandes e escalaveis.
+
+Node JS = Ferramenta que possibilita utilizar javascript para aplicacoes BackEnd.
+
+Visual Studio Code = Editor de texto muito poderoso e personalizavel. Alem de ser muito poderoso ele e leve e pode rodar facilmente na maioria dos micro atuais.
+
+MongoDB = Um tipo de banco de dados nao relacional. Um dos mais adotados pela industria.
+
+Atlas = --
+
+Jest = --
+
+GitHub Actions = --
+
+Heroku = Ferramenta para publicar aplicacoes e sites de forma facil. Contem uma versao gratuita otima para fins didaticos, uma vez que o desenvolvimento so termina apos a aplicacao ter o deploy realizado, Heroku
+pode ser usado para que os desenvolvedores entrem neste territorio pouco explorado.
